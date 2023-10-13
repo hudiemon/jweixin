@@ -1,0 +1,19 @@
+{
+  "name": "jweixin",
+  "version": "1.6.0",
+  "description": "微信JS-SDK，不修改任何代码，仅发包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hudiemon/jweixin.git"
+  },
+  "author": "liusize",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hudiemon/jweixin/issues"
+  },
+  "homepage": "https://github.com/hudiemon/jweixin#readme"
+}
