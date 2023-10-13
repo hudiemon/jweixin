@@ -18,5 +18,9 @@
   "homepage": "https://github.com/hudiemon/jweixin#readme",
   "files": [
     "index.js"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
 }
