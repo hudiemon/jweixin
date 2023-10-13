@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hudiemon/jweixin/issues"
   },
-  "homepage": "https://github.com/hudiemon/jweixin#readme"
+  "homepage": "https://github.com/hudiemon/jweixin#readme",
+  "files": [
+    "index.js"
+  ]
 }
